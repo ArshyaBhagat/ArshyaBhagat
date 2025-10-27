@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Arshya Bhagat  
 
-<!--
-**ArshyaBhagat/ArshyaBhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BBA-CA Student** at *M.E.S. Garware College of Commerce (Autonomous)*  
+💻 **Aspiring Full-Stack Developer** passionate about creating impactful, technology-driven solutions  
+🌱 Currently exploring **Django**, **AI integration**, and **modern web technologies**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Technical Skills  
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks & Tools:** Django, MySQL, Git, VS Code  
+**Areas of Interest:** Web Development, AI Tool Integration, Digital Marketing  
+
+---
+
+### 💡 Featured Project  
+🔹 **[Donora — Living Organ Donation Platform](https://github.com/ArshyaBhagat/Donora)**  
+A Django-based web application that connects living organ donors and recipients through a compatibility-based matching algorithm.  
+**Role:** Full-Stack Developer & Project Manager  
+
+---
+
+### 🏆 Research & Achievements  
+- Authored **three research papers** — two at the *national level* and one *internationally published*  
+- Secured a **college-level trophy in elocution**  
+- Actively contributed to college initiatives including the **Social Club**, **Green Club**, and **Tech Club**  
+
+---
+
+### 📫 Connect With Me  
+🌐 [GitHub](https://github.com/ArshyaBhagat)  
+💼 *LinkedIn profile (https://www.linkedin.com/in/arshya-bhagat-495a5a2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
+📧 *arshyabhagat@gmail.com*  
+
+---
+
+✨ *"Code with purpose. Build with heart."*
