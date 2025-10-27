@@ -27,10 +27,12 @@ A Django-based web application that connects living organ donors and recipients 
 
 ---
 
-### 📫 Connect With Me  
+### 🤝 Connect With Me  
 🌐 [GitHub](https://github.com/ArshyaBhagat)  
-💼 *LinkedIn profile (https://www.linkedin.com/in/arshya-bhagat-495a5a2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
-📧 *arshyabhagat@gmail.com*  
+💼 [LinkedIn](https://www.linkedin.com/in/arshya-bhagat-495e5a265)  
+📧 [arshyabhagat@gmail.com](mailto:arshyabhagat@gmail.com)  
+
+💬 *Open to internship and collaborative project opportunities in web development.*  
 
 ---
 
