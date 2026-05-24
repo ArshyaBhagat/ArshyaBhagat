@@ -1,9 +1,10 @@
-👋 Hi, I'm Arshya Bhagat
+# 👋 Hi, I'm Arshya Bhagat
 
-🎓 BBA-CA Student at M.E.S. Garware College of Commerce (Autonomous)
-💻 Aspiring Full-Stack Developer passionate about creating impactful, technology-driven solutions
-🌱 Currently exploring Django, AI integration, Flutter, and modern web technologies
+🎓 **BBA-CA Student** at *M.E.S. Garware College of Commerce (Autonomous)*
 
+💻 **Aspiring Full-Stack Developer** passionate about creating impactful, technology-driven solutions
+
+🌱 Currently exploring **Django**, **AI integration**, **Flutter**, and modern web technologies
 ---
 
 ⚙️ Technical Skills
@@ -46,7 +47,7 @@ A Flutter + Django based recyclable waste management platform with waste pickup 
 
 📧 arshyabhagat@gmail.com
 
-💬 Open to internship and collaborative project opportunities in web development and software development.
+💼 Open to internships, collaborative projects, entry-level Python development roles, and software development opportunities.
 
 ---
 
