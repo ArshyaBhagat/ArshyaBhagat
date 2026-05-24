@@ -32,6 +32,11 @@ A Flutter + Django based recyclable waste management platform with waste pickup 
 
 ---
 
+
+### 🔹 [Serene Skin Co — Skincare Frontend Website](https://github.com/ArshyaBhagat/Serene-Skin-Co)
+
+A responsive skincare-themed frontend website developed using HTML, CSS, and JavaScript with a focus on user interface design and visual presentation.
+
 🏆 Research & Achievements
 
 - Authored three research papers — two at the national level and one internationally published
