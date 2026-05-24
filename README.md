@@ -9,19 +9,22 @@
 ⚙️ Technical Skills
 
 Languages: Python, JavaScript, HTML, CSS, Dart
+
 Frameworks & Tools: Django, Flutter, MySQL, PostgreSQL, Git, VS Code
+
 Areas of Interest: Web Development, AI Tool Integration, Mobile App Development
 
 ---
 
 💡 Featured Projects
 
-🔹 "Donora — Living Organ Donation Platform" (https://github.com/ArshyaBhagat/Donora)
+### 🔹 [Donora — Living Organ Donation Platform](https://github.com/ArshyaBhagat/Donora)
 
 A Django-based web application connecting living organ donors and recipients through compatibility-based matching.
-Role: Full-Stack Developer & Backend Developer
 
-🔹 "WasteWorth — Recyclable Waste Management App" (https://github.com/ArshyaBhagat/WasteWorth)
+---
+
+### 🔹 [WasteWorth — Recyclable Waste Management App](https://github.com/ArshyaBhagat/WasteWorth)
 
 A Flutter + Django based recyclable waste management platform with waste pickup scheduling, JWT authentication, driver workflow management, and billing generation features.
 
@@ -37,8 +40,10 @@ A Flutter + Django based recyclable waste management platform with waste pickup 
 
 🤝 Connect With Me
 
-🌐 "GitHub" (https://github.com/ArshyaBhagat)
-💼 "LinkedIn" (https://www.linkedin.com/in/arshya-bhagat)
+🌐 [GitHub](https://github.com/ArshyaBhagat)
+
+💼 [LinkedIn](https://www.linkedin.com/in/arshya-bhagat)
+
 📧 arshyabhagat@gmail.com
 
 💬 Open to internship and collaborative project opportunities in web development and software development.
