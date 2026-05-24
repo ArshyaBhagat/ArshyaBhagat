@@ -5,6 +5,7 @@
 💻 **Aspiring Full-Stack Developer** passionate about creating impactful, technology-driven solutions
 
 🌱 Currently exploring **Django**, **AI integration**, **Flutter**, and modern web technologies
+
 ---
 
 ⚙️ Technical Skills
