@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arshya Bhagat
+👋 Hi, I'm Arshya Bhagat
 
 🎓 **BBA-CA Student** at *M.E.S. Garware College of Commerce (Autonomous)*
 
