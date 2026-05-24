@@ -1,6 +1,6 @@
 👋 Hi, I'm Arshya Bhagat
 
-🎓 **BBA-CA Student** at *M.E.S. Garware College of Commerce (Autonomous)*
+🎓 BBA-CA Graduate from *M.E.S. Garware College of Commerce (Autonomous)* with an 8.95 CGPA
 
 💻 **Aspiring Full-Stack Developer** passionate about creating impactful, technology-driven solutions
 
