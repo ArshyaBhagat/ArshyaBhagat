@@ -1,61 +1,89 @@
-👋 Hi, I'm Arshya Bhagat
+# 👋 Hi, I'm Arshya Bhagat
 
-🎓 BBA-CA Graduate from *M.E.S. Garware College of Commerce (Autonomous)* with an 8.95 CGPA
+💻 **Software Developer** passionate about building practical, technology-driven software solutions.
 
-💻 **Aspiring Full-Stack Developer** passionate about creating impactful, technology-driven solutions
-
-🌱 Currently exploring **Django**, **AI integration**, **Flutter**, and modern web technologies
+🚀 I enjoy working across backend development, full-stack applications, APIs, mobile development, and interactive user experiences.
 
 ---
 
-⚙️ Technical Skills
+## 🛠️ Technical Skills
 
-Languages: Python, JavaScript, HTML, CSS, Dart
+### Programming Languages
+Python, Java, JavaScript, TypeScript, Dart, SQL
 
-Frameworks & Tools: Django, Flutter, MySQL, PostgreSQL, Git, VS Code
+### Frameworks & Technologies
+Django, Django REST Framework (DRF), Flutter, React, Next.js, Node.js, RESTful APIs, Token Authentication, Role-Based Access Control (RBAC)
 
-Areas of Interest: Web Development, AI Tool Integration, Mobile App Development
+### Databases
+MySQL, PostgreSQL
 
----
+### Frontend
+HTML5, CSS3, Tailwind CSS
 
-💡 Featured Projects
+### UI / Libraries
+shadcn/ui
 
-### 🔹 [Donora — Living Organ Donation Platform](https://github.com/ArshyaBhagat/Donora)
+### Tools
+Git, GitHub, VS Code, Android Studio, Eclipse
 
-A Django-based web application connecting living organ donors and recipients through compatibility-based matching.
+### Software Fundamentals
+Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Design, API Development, Backend Development, Software Development Life Cycle (SDLC), Version Control
 
----
-
-### 🔹 [WasteWorth — Recyclable Waste Management App](https://github.com/ArshyaBhagat/WasteWorth)
-
-A Flutter + Django based recyclable waste management platform with waste pickup scheduling, JWT authentication, driver workflow management, and billing generation features.
-
----
-
-### 🔹 [Serene Skin Co — Skincare Frontend Website](https://github.com/ArshyaBhagat/Serene-Skin-Co)
-
-A responsive skincare-themed frontend website developed using HTML, CSS, and JavaScript with a focus on user interface design and visual presentation.
+### Professional Skills
+Analytical Thinking, Problem Solving, Communication, Technical Documentation, Collaboration, Attention to Detail
 
 ---
 
-🏆 Research & Achievements
+## 🚀 Featured Projects
 
-- Authored three research papers — two at the national level and one internationally published
-- Secured a college-level trophy in elocution
-- Actively contributed to college initiatives including the Social Club, Green Club, and Tech Club
+### 🌐 Portfolio Website
+
+Personal software developer portfolio showcasing projects, technical skills, and research work.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
+
+🔗 [Live Website](https://arshya-portfolio.onrender.com)
+
+### 🫀 Donora
+
+A Django-based living organ donation platform connecting donors and recipients through compatibility-based matching.
+
+**Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript
+
+🔗 [GitHub](https://github.com/ArshyaBhagat/Donora)  
+🎥 [Demo Video](https://youtu.be/7Pi_v69H9sU)
+
+### ♻️ WasteWorth
+
+A Flutter-based mobile application integrated with Django REST Framework and PostgreSQL for recyclable waste collection and pickup management.
+
+**Technologies:** Flutter, Dart, Django REST Framework, PostgreSQL
+
+🔗 [GitHub](https://github.com/ArshyaBhagat/WasteWorth)  
+🎥 [Demo Video](https://drive.google.com/file/d/1UX0pL6s2UeBv9l2ZhBiVxCFoh2jquUTe/view?usp=sharing)
+
+### 🧴 Serene SkinCare Co
+
+A responsive skincare and beauty website featuring skincare routines, educational content, and interactive frontend components.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+🌐 [Live Website](https://serene-skincare-co.onrender.com)  
+🔗 [GitHub](https://github.com/ArshyaBhagat/Serene-Skincare-Co)  
+🎥 [Demo Video](https://youtu.be/TYoLQuOD7ZU)
 
 ---
 
-🤝 Connect With Me
+## 📚 Research & Publications
 
-🌐 [GitHub](https://github.com/ArshyaBhagat)
-
-💼 [LinkedIn](https://www.linkedin.com/in/arshya-bhagat)
-
-📧 arshyabhagat@gmail.com
-
-💼 Open to internships, collaborative projects, entry-level Python development roles, and software development opportunities.
+- A Comparative Study of the Use of Different AI Tools in Education with Reference to Pune Students
+- A Comprehensive Analysis of Information Privacy in Mobile Applications in India
+- A Study of Digital Transformation with Special Reference to the Education Sector
 
 ---
 
-✨ "Code with purpose. Build with heart."
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/arshya-bhagat)
+- [GitHub](https://github.com/ArshyaBhagat)
+- [Portfolio](https://arshya-portfolio.onrender.com)
