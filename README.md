@@ -77,9 +77,8 @@ A responsive skincare and beauty website featuring skincare routines, educationa
 ## 📚 Research & Publications
 
 - A Comparative Study of the Use of Different AI Tools in Education with Reference to Pune Students
-- A Comprehensive Analysis of Information Privacy in Mobile Applications in India
-- A Study of Digital Transformation with Special Reference to the Education Sector
-
+- [A Comprehensive Analysis of Information Privacy in Mobile Applications in India](https://share.google/52JCGEwuw71CZ1tLH)
+- [A Study of Digital Transformation with Special Reference to the Education Sector](https://share.google/52JCGEwuw71CZ1tLH)
 ---
 
 ## 🔗 Connect With Me
